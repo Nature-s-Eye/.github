@@ -1,5 +1,6 @@
 <h1 align="center">Welcome to the Nature's Eye</h1>
 
+## INTRODUCTION ABOUT OUR PROJECT
 <!--
 
 **Here are some ideas to get you started:**
